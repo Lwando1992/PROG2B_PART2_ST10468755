@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "JM8HLtg8MUM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\RaceDay.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lwand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\lwand\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\RaceDay.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\RaceDay.Api.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
