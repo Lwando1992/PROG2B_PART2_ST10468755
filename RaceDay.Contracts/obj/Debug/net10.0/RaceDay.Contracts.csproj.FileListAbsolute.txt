@@ -1,0 +1,12 @@
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\bin\Debug\net10.0\RaceDay.Contracts.deps.json
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\bin\Debug\net10.0\RaceDay.Contracts.dll
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\bin\Debug\net10.0\RaceDay.Contracts.pdb
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\RaceDay.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\RaceDay.Contracts.AssemblyInfoInputs.cache
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\RaceDay.Contracts.AssemblyInfo.cs
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\RaceDay.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\RaceDay.Contracts.sourcelink.json
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\RaceDay.Contracts.dll
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\refint\RaceDay.Contracts.dll
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\RaceDay.Contracts.pdb
+C:\Users\lwand\source\repos\PROG2B_PART2_ST10468755\RaceDay.Contracts\obj\Debug\net10.0\ref\RaceDay.Contracts.dll
