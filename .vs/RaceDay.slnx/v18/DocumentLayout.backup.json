@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48D9D8E2-607E-794F-661B-67674A1416B8}|RaceDay.Api\\RaceDay.Api.csproj|c:\\users\\lwand\\source\\repos\\prog2b_part2_st10468755\\raceday.api\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D9D8E2-607E-794F-661B-67674A1416B8}|RaceDay.Api\\RaceDay.Api.csproj|solutionrelative:raceday.api\\models\\results.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48D9D8E2-607E-794F-661B-67674A1416B8}|RaceDay.Api\\RaceDay.Api.csproj|c:\\users\\lwand\\source\\repos\\prog2b_part2_st10468755\\raceday.api\\models\\enrolment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D9D8E2-607E-794F-661B-67674A1416B8}|RaceDay.Api\\RaceDay.Api.csproj|solutionrelative:raceday.api\\models\\enrolment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Results.cs",
+              "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\Models\\Results.cs",
+              "RelativeDocumentMoniker": "RaceDay.Api\\Models\\Results.cs",
+              "ToolTip": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\Models\\Results.cs",
+              "RelativeToolTip": "RaceDay.Api\\Models\\Results.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T17:51:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Enrolment.cs",
               "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\Models\\Enrolment.cs",
               "RelativeDocumentMoniker": "RaceDay.Api\\Models\\Enrolment.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\Models\\Category.cs",
               "RelativeDocumentMoniker": "RaceDay.Api\\Models\\Category.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\Models\\Event.cs",
               "RelativeDocumentMoniker": "RaceDay.Api\\Models\\Event.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lwand\\source\\repos\\PROG2B_PART2_ST10468755\\RaceDay.Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "RaceDay.Api\\Models\\User.cs",

@@ -19,5 +19,12 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
+  },
+  // RaceDay.Api/appsettings.json
+  {
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=your_server;Database=RaceDayDb;User Id=your_user;Password=your_password;"
+    }
   }
+
 }
